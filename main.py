@@ -1,4 +1,6 @@
 # Discord Cryptocurrency bot.
+# The bot scans for a period then searchs for the cryptocurrency symbol given by the user.
+# Example: .btc is a valid input.
 from requests import Request, Session
 import discord
 import json
