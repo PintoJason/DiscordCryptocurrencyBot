@@ -4,6 +4,7 @@ The bot scans for the period symbol then searches for the cryptocurrency symbol 
 
 ## Requirements
 You will need to create an account with the [Coinmarketcap developer's site](https://coinmarketcap.com/api/) and then retrieve your API Key from your account.
+
 ![](images/CoinmarketcapAPI_Key.PNG)
 
 Secondly, you will need to sign in to [Discord Developer Portal](https://discord.com/developers/applications), and create a new application, then click on the bot tab. You will see the token key for that which you retrieve.
