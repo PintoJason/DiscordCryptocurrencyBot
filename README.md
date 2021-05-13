@@ -19,10 +19,16 @@ Secondly, you will need to sign in to [Discord Developer Portal](https://discord
 
 ![](images/WorkingExample.PNG)
 
-**.oklp** isn't a valid input.
+**.oklp** is a invalid input.
 
 ![](images/NotListedMessage.PNG)
 
 **.kool** is a valid crypto input, but doesn't have any data listed for it.
 
 ![](images/NoDataListedMessage.PNG)
+
+
+## Support
+Feel free to improve upon this Cryptocurrency Discord bot.
+
+Also, if you are interested in working on a decentralized application, you can hit me up!
